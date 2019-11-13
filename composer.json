@@ -1,15 +1,23 @@
 {
-  "name": "rafaelstz/traducao_magento2_pt_br",
+  "name": "lmarquine/traducao_magento2_pt_br",
   "description": "Tradução para Português do Brasil oficial do Magento 2",
   "version": "1.0.0",
-  "homepage": "https://github.com/rafaelstz/traducao_magento2_pt_br",
+  "homepage": "https://github.com/lmarquine/traducao_magento2_pt_br",
   "license": [
     "MIT"
   ],
   "authors": [
     {
+      "name": "Leonardo Marquine Pereira",
+      "homepage": "https://github.com/lmarquine"
+    },
+    {
       "name": "Rafael Corrêa Gomes",
       "homepage": "https://github.com/rafaelstz"
+    },
+    {
+      "name": "Web2View Core Team",
+      "homepage": "https://web2view.com.br"
     },
     {
       "name": "Magento official translations project for Magento 2",
