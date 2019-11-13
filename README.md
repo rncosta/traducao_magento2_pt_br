@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">  
-  <a href="https://packagist.org/packages/rafaelstz/traducao_magento2_pt_br"><img src="https://img.shields.io/packagist/dt/rafaelstz/traducao_magento2_pt_br.svg" alt="Total Downloads"></a>
+  <a href="https://packagist.org/packages/lmarquine/traducao_magento2_pt_br"><img src="https://img.shields.io/packagist/dt/lmarquine/traducao_magento2_pt_br.svg" alt="Total Downloads"></a>
 </p>
 
 Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2](https://crowdin.com/project/magento-2/pt-BR), transformado em repositório GIT para facilitar a intalação e atualizações.
