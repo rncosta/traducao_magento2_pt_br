@@ -19,7 +19,7 @@ Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2
 Para instalar essa tradução via [Composer](https://getcomposer.org) você precisa usar o terminal do seu servidor.
 
 ```
-composer require rafaelstz/traducao_magento2_pt_br:dev-master
+composer require lmarquine/traducao_magento2_pt_br:dev-master
 php bin/magento setup:static-content:deploy pt_BR -f
 php bin/magento cache:clean
 ```
@@ -28,8 +28,8 @@ php bin/magento cache:clean
 
 Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 
-* Crie o diretório **app/i18n/rafaelcg/language_pt_br**
-* Efetue o [download do zip](https://github.com/rafaelstz/traducao_magento2_pt_br/archive/master.zip)
+* Crie o diretório **app/i18n/lmarquine/language_pt_br**
+* Efetue o [download do zip](https://github.com/lmarquine/traducao_magento2_pt_br/archive/master.zip)
 * Mova o conteúdo do repositório para a pasta e habilite a tradução
 
 # Como Usar
@@ -42,6 +42,6 @@ Ajude a melhorar a tradução oficial do Magento 2 para Português Brasil usando
 
 # Autores
 Essa tradução foi criada oficialmente para o Magento 2 usando o [Crowdin](https://crowdin.com/project/magento-2).
-Esse repositório do Github foi criado por mim para facilitar a instalação.
+Esse repositório do Github foi criado por mim para facilitar e agilizar a atualização das traduções.
 
-[Rafael Corrêa Gomes](https://github.com/rafaelstz)
+Essa tradução é baseada na trdução do [Rafael Corrêa Gomes](https://github.com/rafaelstz)
