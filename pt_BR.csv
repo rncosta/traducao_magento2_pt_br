@@ -6058,7 +6058,7 @@ OK,OK,module,Magento_GiftMessage
 To:,"Para: (Nome + Email do presenteado)",module,Magento_GiftMessage
 From:,"De: (Nome de quem está presenteando)",module,Magento_GiftMessage
 Message:,Mensagem:,module,Magento_GiftMessage
-Update,Atualizar,module,Magento_GiftMessage
+Update,Salvar,module,Magento_GiftMessage
 "Gift options","Opções de presente",module,Magento_GiftMessage
 Edit,Editar,module,Magento_GiftMessage
 Delete,Excluir,module,Magento_GiftMessage
@@ -11928,8 +11928,8 @@ message,mensagem,module,Magento_Shipping
 "Shipping Information","Dados de Entrega",module,Magento_Shipping
 "Total Shipping Charges","Frete total",module,Magento_Shipping
 "Incl. Tax","Imposto Incl.",module,Magento_Shipping
-"Items to Ship","Itens para navio",module,Magento_Shipping
-"Qty to Ship","Qtde de navio",module,Magento_Shipping
+"Items to Ship","Itens para envio",module,Magento_Shipping
+"Qty to Ship","Qtde de envio",module,Magento_Shipping
 Ship,Enviar,module,Magento_Shipping
 "Shipment Total","Carregamento Total",module,Magento_Shipping
 "Shipment Comments","Comentários sobre o envio",module,Magento_Shipping
