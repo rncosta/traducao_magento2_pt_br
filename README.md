@@ -19,6 +19,7 @@ Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2
 Para instalar essa tradução via [Composer](https://getcomposer.org) você precisa usar o terminal do seu servidor.
 
 ```
+php bin/magento deploy:mode:set developer
 composer require rncosta/traducao_magento2_pt_br:dev-master
 php bin/magento setup:static-content:deploy pt_BR -f
 php bin/magento cache:clean
