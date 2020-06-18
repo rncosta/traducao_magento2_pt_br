@@ -1,12 +1,16 @@
 {
-  "name": "lmarquine/traducao_magento2_pt_br",
-  "description": "Tradução para Português do Brasil oficial do Magento 2",
+  "name": "rncosta/traducao_magento2_pt_br",
+  "description": "Tradução para Português do Brasil oficial do Magento 2, seguindo algumas necessidades especificas de negócio",
   "version": "1.0.0",
-  "homepage": "https://github.com/lmarquine/traducao_magento2_pt_br",
+  "homepage": "https://github.com/rncosta/traducao_magento2_pt_br",
   "license": [
     "MIT"
   ],
   "authors": [
+    {
+      "name": "Rudinei Nunes Costa",
+      "homepage": "https://github.com/rncosta"
+    },
     {
       "name": "Leonardo Marquine Pereira",
       "homepage": "https://github.com/lmarquine"

@@ -6055,8 +6055,8 @@ OK,OK,module,Magento_GiftMessage
 "Add Gift Options for Individual Items","Adicionar Opções de Presente para Itens Individuais",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for the item.","Você pode deixar esta caixa vazia se você não quer adicionar uma mensagem de presente para o item.",module,Magento_GiftMessage
 "Gift Message (optional)","Mensagem de Presente (opcional)",module,Magento_GiftMessage
-To:,Para:,module,Magento_GiftMessage
-From:,De:,module,Magento_GiftMessage
+To:,"Para: (Nome + Email do presenteado)",module,Magento_GiftMessage
+From:,"De: (Nome de quem está presenteando)",module,Magento_GiftMessage
 Message:,Mensagem:,module,Magento_GiftMessage
 Update,Atualizar,module,Magento_GiftMessage
 "Gift options","Opções de presente",module,Magento_GiftMessage
@@ -7353,7 +7353,7 @@ Comment,Comentar,module,Magento_MultipleWishlist
 "Add to Wish List","Adicionar à lista de desejos",module,Magento_MultipleWishlist
 "Change Billing Address","Alterar endereço de cobrança",module,Magento_Multishipping
 "Ship to Multiple Addresses","Enviar para vários endereços",module,Magento_Multishipping
-"Billing Information - %1","Informações de faturamento - %1",module,Magento_Multishipping
+"Billing Information - %1","Informações de faturamento - %1",module,Magento_Multishipping 
 "Review Order - %1","Revisar Pedido - %1",module,Magento_Multishipping
 Total,Total,module,Magento_Multishipping
 "Total for this address","Total para este endereço",module,Magento_Multishipping
@@ -10920,6 +10920,9 @@ Search,Pesquisa,module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","A sua Nota de Crédito #%creditmemo_id para o Pedido #%order_id",module,Magento_Sales
 "Billing Info","Informações de cobrança",module,Magento_Sales
 "Shipping Info","Informações de entrega",module,Magento_Sales
+"Billing Information","Informações de cobrança",module,Magento_Sales
+"Shipping Information","Informações de entrega",module,Magento_Sales
+"Gift Message for this Order","Mensagem de presente",module,Magento_Sales
 "Update to your %store_name credit memo","Atualização para sua nota de crédito de %store_name",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Seu pedido #%increment_id foi atualizado com um status de <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Fatura para o seu pedido de %store_name",module,Magento_Sales
