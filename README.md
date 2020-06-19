@@ -33,6 +33,12 @@ Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 * Efetue o [download do zip](https://github.com/rncosta/traducao_magento2_pt_br/archive/master.zip)
 * Mova o conteúdo do repositório para a pasta e habilite a tradução
 
+```
+php bin/magento deploy:mode:set developer 
+php bin/magento setup:static-content:deploy pt_BR -f
+php bin/magento c:c
+```
+
 # Como Usar
 
 Para começar a usar a tradução instalada vá em `Stores -> Configuration -> General -> General -> Locale options` e selecione em **Locale** a opção **Brazilian Portuguese (Brazil)**.

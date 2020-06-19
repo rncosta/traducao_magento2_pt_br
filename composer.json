@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "homepage": "https://github.com/rncosta/traducao_magento2_pt_br",
   "license": [
-    "MIT"
+    "MIT",
+    "OSL-3.0",
+    "AFL-3.0"
   ],
   "authors": [
     {

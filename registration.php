@@ -1,6 +1,10 @@
 <?php
-\Magento\Framework\Component\ComponentRegistrar::register(
-    \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
+declare(strict_types=1);
+
+use \Magento\Framework\Component\ComponentRegistrar;
+
+ ComponentRegistrar::register(
+    ComponentRegistrar::LANGUAGE,
     'rncosta_pt_br',
     __DIR__
 );
