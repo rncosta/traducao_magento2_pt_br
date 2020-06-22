@@ -12,6 +12,8 @@
 
 Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2](https://crowdin.com/project/magento-2/pt-BR), transformado em repositório GIT para facilitar a intalação e atualizações.
 
+Esse pacote possui alterações específicas para um modelo de negócios.
+
 # Instalação
 
 ## Via Composer 

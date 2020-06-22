@@ -33,9 +33,7 @@
   "require": {
     "magento/framework": "*"
   },
-  "type": "magento2-language",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "type": "magento2-language", 
   "autoload": {
     "files": [
       "registration.php"
