@@ -2901,8 +2901,8 @@ Total:,Total:,module,Magento_Checkout
 "Shipping Address:","Endereço de entrega:",module,Magento_Checkout
 "Shipping Method:","Forma de envio:",module,Magento_Checkout
 "Payment Method:","Forma de pagamento:",module,Magento_Checkout
-"Billing Information:","Endereço Faturamento:",module,Magento_Checkout
-"Shipping Information:","Endereço de Entrega",module,Magento_Checkout
+"Billing Information:","Endereço de Cobrança:",module,Magento_Sales
+"Shipping Information:","Endereço de Entrega",module,Magento_Sales
 "Date & Time:","Data e hora:",module,Magento_Checkout
 "Sign In",Entrar,module,Magento_Checkout
 "Email Address","Endereço de e-mail",module,Magento_Checkout
@@ -4425,6 +4425,8 @@ Customer,Cliente,module,Magento_Customer
 "Account Created in:","Conta criada no:",module,Magento_Customer
 "Customer Group:","Grupo de clientes:",module,Magento_Customer
 "Default Billing Address","Endereço de cobrança padrão",module,Magento_Customer
+"Billing Information:","Endereço de Cobrança:",module,Magento_Customer
+"Shipping Information:","Endereço de Entrega",module,Magento_Customer
 "Sales Statistics","Estatísticas de vendas",module,Magento_Customer
 "Web Site",Website,module,Magento_Customer
 Store,Loja,module,Magento_Customer
@@ -10661,7 +10663,7 @@ Authorization,Autorização,module,Magento_Sales
 "Ship to:","Enviar para:",module,Magento_Sales
 "Payment Method:","Forma de pagamento:",module,Magento_Sales
 "Shipping Method:","Forma de envio:",module,Magento_Sales
-"Billing Information:","Endereço Faturamento:",module,Magento_Sales
+"Billing Information:","Endereço de Cobrança:",module,Magento_Sales
 "Shipping Information:","Endereço de Entrega",module,Magento_Sales
 "Total Shipping Charges","Frete total",module,Magento_Sales
 Title,Título,module,Magento_Sales
