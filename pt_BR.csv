@@ -1445,7 +1445,7 @@ Quantity,Quantidade,module,Magento_Bundle
 "Gift Message","Mensagem do presente",module,Magento_Bundle
 "Gift Message for this Order:","Mensagem do presente deste pedido",module,Magento_Bundle
 From:,"De (Nome de quem está presenteando):",module,Magento_Bundle
-To:,"Para (Nome + Email do presenteado):",module,Magento_Bundle
+To:,"Para (Nome + Email para Envio):",module,Magento_Bundle
 Message:,Mensagem:,module,Magento_Bundle
 "Product Name","Nome do produto",module,Magento_Bundle
 Subtotal,Subtotal,module,Magento_Bundle
@@ -5368,7 +5368,7 @@ Back,Voltar,module,Magento_Downloadable
 download,baixar,module,Magento_Downloadable
 "Gift Message","Mensagem do presente",module,Magento_Downloadable
 From:,"De (Nome de quem está presenteando):",module,Magento_Downloadable
-To:,"Para (Nome + Email do presenteado):",module,Magento_Downloadable
+To:,"Para (Nome + Email para Envio):",module,Magento_Downloadable
 "Gift Message for this Order:","Mensagem do presente deste pedido",module,Magento_Downloadable
 Message:,Mensagem:,module,Magento_Downloadable
 "Product Name","Nome do produto",module,Magento_Downloadable
@@ -10833,7 +10833,7 @@ Item,Item,module,Magento_Sales
 "Purchased From: %1","Comprado de: %1",module,Magento_Sales
 "Gift Message","Mensagem do presente",module,Magento_Sales
 From:,"De (Nome de quem está presenteando):",module,Magento_Sales
-To:,"Para (Nome + Email do presenteado):",module,Magento_Sales
+To:,"Para (Nome + Email para Envio):",module,Magento_Sales
 "Gift Message for this Order:","Mensagem do presente deste pedido",module,Magento_Sales
 Message:,Mensagem:,module,Magento_Sales
 "Shipping &amp; Handling","Envio &amp; Manuseio",module,Magento_Sales
