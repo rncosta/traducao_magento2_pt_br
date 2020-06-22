@@ -1443,8 +1443,9 @@ Quantity,Quantidade,module,Magento_Bundle
 "Customize %1","Personalizar %1",module,Magento_Bundle
 "No options of this product are available.","Não há opções deste produto estão disponíveis.",module,Magento_Bundle
 "Gift Message","Mensagem do presente",module,Magento_Bundle
-From:,De:,module,Magento_Bundle
-To:,Para:,module,Magento_Bundle
+"Gift Message for this Order:","Mensagem do presente deste pedido",module,Magento_Bundle
+From:,"De (Nome de quem está presenteando):",module,Magento_Bundle
+To:,"Para (Nome + Email do presenteado):",module,Magento_Bundle
 Message:,Mensagem:,module,Magento_Bundle
 "Product Name","Nome do produto",module,Magento_Bundle
 Subtotal,Subtotal,module,Magento_Bundle
@@ -2898,8 +2899,10 @@ Items,Itens,module,Magento_Checkout
 Total:,Total:,module,Magento_Checkout
 "Billing Address:","Endereço de cobrança:",module,Magento_Checkout
 "Shipping Address:","Endereço de entrega:",module,Magento_Checkout
-"Shipping Method:","Método de envio:",module,Magento_Checkout
+"Shipping Method:","Forma de envio:",module,Magento_Checkout
 "Payment Method:","Forma de pagamento:",module,Magento_Checkout
+"Billing Information:","Endereço Faturamento:",module,Magento_Checkout
+"Shipping Information:","Endereço de Entrega",module,Magento_Checkout
 "Date & Time:","Data e hora:",module,Magento_Checkout
 "Sign In",Entrar,module,Magento_Checkout
 "Email Address","Endereço de e-mail",module,Magento_Checkout
@@ -5364,8 +5367,9 @@ Status,Status,module,Magento_Downloadable
 Back,Voltar,module,Magento_Downloadable
 download,baixar,module,Magento_Downloadable
 "Gift Message","Mensagem do presente",module,Magento_Downloadable
-From:,De:,module,Magento_Downloadable
-To:,Para:,module,Magento_Downloadable
+From:,"De (Nome de quem está presenteando):",module,Magento_Downloadable
+To:,"Para (Nome + Email do presenteado):",module,Magento_Downloadable
+"Gift Message for this Order:","Mensagem do presente deste pedido",module,Magento_Downloadable
 Message:,Mensagem:,module,Magento_Downloadable
 "Product Name","Nome do produto",module,Magento_Downloadable
 Qty,Qtd,module,Magento_Downloadable
@@ -6057,6 +6061,7 @@ OK,OK,module,Magento_GiftMessage
 "Gift Message (optional)","Mensagem de Presente (opcional)",module,Magento_GiftMessage
 To:,"Para: (Nome + Email do presenteado)",module,Magento_GiftMessage
 From:,"De: (Nome de quem está presenteando)",module,Magento_GiftMessage
+"Gift Message for this Order:","Mensagem do presente deste pedido",module,Magento_GiftMessage
 Message:,Mensagem:,module,Magento_GiftMessage
 Update,Salvar,module,Magento_GiftMessage
 "Gift options","Opções de presente",module,Magento_GiftMessage
@@ -7772,8 +7777,8 @@ Update,Update,module,Magento_NegotiableQuote
 "Reason: %reason.","Reason: %reason.",module,Magento_NegotiableQuote
 "expires on","expires on",module,Magento_NegotiableQuote
 "after which time you can’t order the items in the quote. After the expiration,
-    you’ll have to negotiate the price with the seller again.","after which time you can’t order the items in the quote. After the expiration,
-    you’ll have to negotiate the price with the seller again.",module,Magento_NegotiableQuote
+    you’ll have to negotiate the price with the seller again.","after which time you can’t order the items in the quote. After the expiration,
+    you’ll have to negotiate the price with the seller again.",module,Magento_NegotiableQuote
 "%merchant_name,","%merchant_name,",module,Magento_NegotiableQuote
 %quote_id,%quote_id,module,Magento_NegotiableQuote
 "Dear %merchantName,","Dear %merchantName,",module,Magento_NegotiableQuote
@@ -8142,7 +8147,7 @@ Import,Importar,module,Magento_OfflineShipping
 "Access list","Lista de acesso",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","Lista de IPs de acesso separados com ',' que pode purgar configuração Varnish para a geração de arquivo de configuração.
-                             Se o campo estiver vazio valor padrão localhost será salvo.",module,Magento_PageCache
+                             Se o campo estiver vazio valor padrão localhost será salvo.",module,Magento_PageCache
 "Backend host","Host do backend",module,Magento_PageCache
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","Especifique o host do backend para a geração do arquivo de configuração. Se o campo estiver vazio será gravado o valor localhost.",module,Magento_PageCache
 "Backend port","Porta de back-end",module,Magento_PageCache
@@ -10655,7 +10660,9 @@ Authorization,Autorização,module,Magento_Sales
 "Sold to:","Vendido para:",module,Magento_Sales
 "Ship to:","Enviar para:",module,Magento_Sales
 "Payment Method:","Forma de pagamento:",module,Magento_Sales
-"Shipping Method:","Método de envio:",module,Magento_Sales
+"Shipping Method:","Forma de envio:",module,Magento_Sales
+"Billing Information:","Endereço Faturamento:",module,Magento_Sales
+"Shipping Information:","Endereço de Entrega",module,Magento_Sales
 "Total Shipping Charges","Frete total",module,Magento_Sales
 Title,Título,module,Magento_Sales
 Number,Número,module,Magento_Sales
@@ -10825,8 +10832,9 @@ Item,Item,module,Magento_Sales
 "Customer Name: %1","Nome do cliente: %1",module,Magento_Sales
 "Purchased From: %1","Comprado de: %1",module,Magento_Sales
 "Gift Message","Mensagem do presente",module,Magento_Sales
-From:,De:,module,Magento_Sales
-To:,Para:,module,Magento_Sales
+From:,"De (Nome de quem está presenteando):",module,Magento_Sales
+To:,"Para (Nome + Email do presenteado):",module,Magento_Sales
+"Gift Message for this Order:","Mensagem do presente deste pedido",module,Magento_Sales
 Message:,Mensagem:,module,Magento_Sales
 "Shipping &amp; Handling","Envio &amp; Manuseio",module,Magento_Sales
 "Gift Options","Opções de presente",module,Magento_Sales
