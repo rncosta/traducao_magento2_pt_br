@@ -563,7 +563,7 @@ Search,Pesquisa,module,Magento_Backend
 Any,Qualquer,module,Magento_Backend
 "All Countries","Todos os Países",module,Magento_Backend
 From,De,module,Magento_Backend
-To,Até,module,Magento_Backend
+To,Para,module,Magento_Backend
 "Date selector","Seletor de data",module,Magento_Backend
 "[ deleted ]","[ apagado ]",module,Magento_Backend
 "Select All","Selecionar Todos",module,Magento_Backend
@@ -8058,6 +8058,7 @@ Unconfirmed,"Não confirmados",module,Magento_Newsletter
 Store,Loja,module,Magento_Newsletter
 "Store View","Visão de Loja",module,Magento_Newsletter
 "Newsletter Subscriptions","Subscrições da Newsletter",module,Magento_Newsletter
+"Subscribe to receive our newsletter","Subscrições para receber nossa Newsletter",module,Magento_Newsletter
 "Make Check payable to:","Passe o cheque à ordem de:",module,Magento_OfflinePayments
 "Send Check to:","Enviar cheque para:",module,Magento_OfflinePayments
 "Purchase Order Number","Número do Pedido de Compra",module,Magento_OfflinePayments
