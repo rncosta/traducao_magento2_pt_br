@@ -7675,7 +7675,7 @@ Status,Status,module,Magento_NegotiableQuote
 Created,Created,module,Magento_NegotiableQuote
 rate,rate,module,Magento_NegotiableQuote
 Expires,Expires,module,Magento_NegotiableQuote
-Company,Company,module,Magento_NegotiableQuote
+Company,Empresa,module,Magento_NegotiableQuote
 "Company Admin Email","Company Admin Email",module,Magento_NegotiableQuote
 Seller,Seller,module,Magento_NegotiableQuote
 Store,Store,module,Magento_NegotiableQuote
@@ -11801,7 +11801,7 @@ included,included,module,Magento_SharedCatalog
 "Assign Catalog","Assign Catalog",module,Magento_SharedCatalog
 "Unassign Catalog","Unassign Catalog",module,Magento_SharedCatalog
 ID,ID,module,Magento_SharedCatalog
-Company,Company,module,Magento_SharedCatalog
+Company,Empresa,module,Magento_SharedCatalog
 Country,País,module,Magento_SharedCatalog
 State/Province,State/Province,module,Magento_SharedCatalog
 Assigned,Assigned,module,Magento_SharedCatalog
