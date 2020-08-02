@@ -8168,12 +8168,9 @@ Year,Ano,module,Magento_Payment
 N/A,"Não Disponível",module,Magento_Payment
 "Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Payment
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Payment 
-"Installments", "Parcelamento",module,Magento_Payment
-"Payment ID: %s","Id Pagamento: %s",module,Magento_Payment
-"Installments","Parcelas",module,Magento_Payment 
-"Card Installments:","Parcelas:",module,Magento_Payment
-"Id Payment:","ID Pagamento:",module,Magento_Payment
-"Transaction Identifier:","TID:",module,Magento_Payment
+"installments","Parcelas:",module,Magento_Payment
+"PaymentId","ID Pagamento:",module,Magento_Payment
+"TidCielo","TID:",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Número de emissão Switch/Solo/Maestro",module,Magento_Payment
 "Switch/Solo/Maestro Start Date","Data de início Maestro/Switch/Solo",module,Magento_Payment
 "We cannot retrieve the transparent payment method model object.","Não foi possível recuperar o objeto de modelo do método de pagamento transparente.",module,Magento_Payment
